@@ -1,16 +1,23 @@
-## Hi there 👋
+### 👋 Hi, I'm Ceyhan Turnalı  
+**Data Scientist & Product Owner | AI & Finance**
 
-<!--
-**CeyhanTurnali/CeyhanTurnali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a data scientist working in the finance industry, building AI-driven systems that generate real business value.  
+My work bridges technical expertise with strategic execution — from model development to production deployment.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚙️ Areas of Expertise
+
+- **Data Science & Machine Learning**  
+- **Deep Learning & Natural Language Processing (NLP)**  
+- **Generative AI (Gen AI) & Applied Use Cases**  
+- **Model Development & Productionization**  
+- **Financial Applications & Behavioral Analytics**  
+- **Product Development & Project Management**
+
+---
+
+### 📫 Get in Touch
+
+- 🌐 [ceyhanturnali.com](https://ceyhanturnali.com)  
+- 💼 [LinkedIn](https://linkedin.com/in/ceyhanturnali)
